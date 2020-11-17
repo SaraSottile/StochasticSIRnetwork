@@ -46,7 +46,9 @@ The program will produce two files:
 
 SpecializedGillespie is a specialized version of the Gillespie algorithm developed to simulate the spread of an epidemic in a scale-free network built via Configuration Model. To compile te code, please follow the instruction below.
 
+
 <h4>Compile</h4>
+
 ```
 cd SpecializedGillespie
 chmod +x compile
@@ -56,9 +58,11 @@ ls - l
 After the simulator has been compiled, you can run the dynamics. You can find an example of model (named `model0.txt`).
 
 <h4>Run</h4>
+
 ```
 ./pSSA model0.txt
 ```
+
 The Configuration Model algorithm found in the folder `/ConfigurationModel` will produce a file named `model.txt` of the same type of the example.
 
 <h2>ProbabilityExtinction</h2>
