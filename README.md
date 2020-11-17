@@ -62,12 +62,17 @@ After the simulator has been compiled, you can run the dynamics. You can find an
 ```
 ./pSSA model0.txt
 ```
-
 The Configuration Model algorithm found in the folder `/ConfigurationModel` will produce a file named `model.txt` of the same type of the example.
+
+The program will produce two files:
+1. Network file `model.txt.csv`, contains the csv file of the dynamics.
+2. Reactions file `traces.txt.txt`, contains the trace of the reactions at each time-step.
+
 
 <h2>ProbabilityExtinction</h2>
 
 This is the MATLAB code to find the "Probability of Extinction" described in the main manuscript. The main code is `main.m`, which reads in input a table named `table_initialstate.csv`; our table of data of Section 4.1 is provided as example of the format table needed.
 
 <h2>Supplementary Material</h2>
+
 In this folder you can find all the tables used in the manuscript to generate the figures.
