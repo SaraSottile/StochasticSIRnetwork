@@ -38,9 +38,10 @@ For instance, typing
 ```
 will produce a network with 1000 nodes with &alpha; = 2, with 1 initial infected node on the hub, tmax = 100, &beta; = 1 and &gamma; = 1.
 
-The program will produce two files:
+The program will produce 3 files:
 1. Network file `edges.txt`, contains the list of edges.
 2. Reactions file `model.txt`, contains the list of the reactions between node in order to apply afterwards `/SpecializedGillespie`.
+3. File `log.txt`, to track all the messages in the code.
 
 <h2>SpecializedGillespie</h2>
 
