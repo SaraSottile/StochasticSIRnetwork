@@ -1,0 +1,34 @@
+
+Edges generated.
+
+Writing the model to file.
+
+Number of original edges: 192
+Duplicate edges to be removed: 59
+------------------------------
+
+Number of network edges without duplicates: 133
+
+Number of nodes: 100
+
+Searching clusters.
+
+
+
+
+Number of clusters:  3
+
+Visited nodes:  100
+
+Search completed in
+--- 0.0007433891296386719secs. ---
+
+==================================
+Number of nodes in the model file: 95
+Number of edges in the model file: 131
+
+Enumerating the infected reactions.
+
+There are 95 nodes.
+Infected are in position ciao
+Error in the choice of position
