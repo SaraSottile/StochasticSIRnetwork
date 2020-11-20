@@ -8,7 +8,7 @@ The preprint can be found <a href=" " target="_blank">here</a>. Each feedback is
 
 <p>sara.sottile@unitn.it</p>
 <p>ozan.kah@gmail.com</p>
-<p>mattia.senso@unitn.it</p>
+<p>mattia.sensi@unitn.it</p>
 
 <h2>ConfigurationModel</h2>
 
