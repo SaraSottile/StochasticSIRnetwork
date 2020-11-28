@@ -1,5 +1,7 @@
 <h1>Stochastic SIR dynamics on scale-free random networks</h1>
 
+![](https://komarev.com/ghpvc/?username=SaraSottile)
+
 <h2>Description</h2>
 
 In this repository you can found the description of the model in the paper "How network properties and epidemic parameters influence stochastic SIR dynamics on scale-free random networks", written by <a href="https://sarasottile.github.io/" target="_blank">Sara Sottile</a>, <a href="https://ozan-k.com/" target="_blank">Ozan Kahramanoğulları</a> and Mattia Sensi.
