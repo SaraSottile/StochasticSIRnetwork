@@ -20,7 +20,7 @@ In this repository you can produce a scale-free network via Configuration Model,
 
 To run the program, type:  
 ```
-./benchmark [FLAG] [P]
+./configuration.py [FLAG] [P]
 
 To set the parameters, type:
 N                       [number of nodes]
