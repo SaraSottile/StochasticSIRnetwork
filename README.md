@@ -4,13 +4,13 @@
 
 <h2>Description</h2>
 
-In this repository you can found the description of the model in the paper "How network properties and epidemic parameters influence stochastic SIR dynamics on scale-free random networks", written by <a href="https://sarasottile.github.io/" target="_blank">Sara Sottile</a>, <a href="https://ozan-k.com/" target="_blank">Ozan Kahramanoğulları</a> and Mattia Sensi.
+In this repository you can found the description of the model in the paper "How network properties and epidemic parameters influence stochastic SIR dynamics on scale-free random networks", written by <a href="https://sarasottile.github.io/" target="_blank">Sara Sottile</a>, <a href="https://mattiasensi.github.io/" target="_blank">Mattia Sensi</a> and <a href="https://ozan-k.com/" target="_blank">Ozan Kahramanoğulları</a>.
 
 The preprint can be found <a href="https://arxiv.org/abs/2011.10595" target="_blank">here</a>. Each feedback is very welcome. If you have found a bug or have problems, or want to give advises, please contact us:
 
 <p>sara.sottile@unitn.it</p>
+<p>mattia.sensi@inria.fr</p>
 <p>ozan.kah@gmail.com</p>
-<p>mattia.sensi@unitn.it</p>
 
 <h2>ConfigurationModel</h2>
 
